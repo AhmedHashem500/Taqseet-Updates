@@ -68,11 +68,16 @@
       "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.0.6.jar",
       "sha256": "d88edf0b723572fd912ca86ea277bf06572295efd5a9491961496113be0c2e48",
       "notes": "اختبار حي للتحديث VBS (بدون وميض) 4.0.6"
+    },
+    "4.0.7": {
+      "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.0.7.jar",
+      "sha256": "6dfb5cfe001cffe03a48965f2f0b40810a8195360c49ce31940f62a34f6809b7",
+      "notes": "هلااااااااااااااااااااااااااااا"
     }
   },
   "devices": {
     "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.0.6",
-    "50c818a5f8dbc48946fc85b2ef56cb792b6deaf2a7b7780ac3636e7ebc781cbe": "4.0.1"
+    "50c818a5f8dbc48946fc85b2ef56cb792b6deaf2a7b7780ac3636e7ebc781cbe": "4.0.7"
   },
   "names": {
     "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "الأندلس",
