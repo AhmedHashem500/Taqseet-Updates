@@ -17,7 +17,7 @@
     ],
     "تتوريال_3_تفعيل_ميزة_لعملاء_محددين_بدون_نسخة_جديدة": [
       "في الكود ضع الميزة داخل شرط:  if (Features.enabled(\"اسم_الميزة\")) { ... }",
-      "في لوحة التحكم ← تبويب (الميزات الافتراضية): اجعل الميزة \u003d لا (مغلقة للجميع).",
+      "في لوحة التحكم ← تبويب (الميزات الافتراضية): اجعل الميزة = لا (مغلقة للجميع).",
       "ثم تبويب (ميزات لكل جهاز): فعّل الميزة لمعرّف كل عميل تريده.",
       "حفظ ثم نشر. تظهر الميزة لهؤلاء العملاء فقط بنفس النسخة.",
       "مثال جاهز يعمل الآن: زر (صافي الأرباح الشهرية) مربوط بالميزة netMonthlyProfits."
@@ -63,10 +63,15 @@
       "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.0.5.jar",
       "sha256": "b06ff78d454fef9fb848cb42a527e55eb836c598df04aef1180a01e9813ff1ef",
       "notes": "newwwwwwwww"
+    },
+    "4.0.6": {
+      "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.0.6.jar",
+      "sha256": "d88edf0b723572fd912ca86ea277bf06572295efd5a9491961496113be0c2e48",
+      "notes": "اختبار حي للتحديث VBS (بدون وميض) 4.0.6"
     }
   },
   "devices": {
-    "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.0.5"
+    "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.0.6"
   },
   "names": {
     "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "الأندلس"
