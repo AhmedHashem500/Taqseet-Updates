@@ -35,8 +35,15 @@
     "ملاحظة_فنية": "أي مفتاح يبدأ بشرطة سفلية _ هو شرح فقط ويتجاهله التطبيق. لوحة التحكم تحافظ على هذا الشرح عند الحفظ."
   },
   "default": "4.0.0",
-  "versions": {},
-  "devices": {},
+  "versions": {
+    "4.0.0": {
+      "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.0.0.jar",
+      "sha256": "622c95bab4e3ea875931912f1a7dc0c4c1779b94c15cf8c68d1352023d43f17f"
+    }
+  },
+  "devices": {
+    "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.0.0"
+  },
   "names": {
     "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "الأندلس"
   },
