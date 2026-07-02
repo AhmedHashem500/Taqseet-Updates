@@ -81,10 +81,14 @@
     "4.4.8": {
       "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.4.8.jar",
       "sha256": "809b467047ee06e6e7c181284154530b9d4b8f83038f93e1c867eca61aaaef62"
+    },
+    "4.4.9": {
+      "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.4.9.jar",
+      "sha256": "911f991a89d26b1e7cc61d0e1b0f2eff6f43c9bf6a9db353baebbba5c4b567f0"
     }
   },
   "devices": {
-    "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.4.8"
+    "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.4.9"
   },
   "names": {
     "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "الأندلس",
