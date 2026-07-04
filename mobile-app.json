@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/qassat.apk",
-  "notes": "تحديث «قسط» 1.6: إصلاح إتمام التثبيت بعد منح صلاحية التثبيت، مع عرض المتبقّي للتحصيل للشهر الجاري وإجمالي الشهور المكتملة وإخفاء الشهور القادمة."
+  "notes": "تحديث «قسط» 1.7: اختبار إتمام التثبيت تلقائيًا بعد منح صلاحية تثبيت التطبيقات."
 }
