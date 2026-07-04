@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/qassat.apk",
-  "notes": "تحديث تطبيق «قسط»: دعم إيقاف/تفعيل التطبيق عن بُعد وتحسينات."
+  "notes": "تحديث «قسط» 1.5: الشهر الجاري يعرض المتبقّي للتحصيل فقط، والشهور المكتملة تعرض إجماليها، مع إخفاء الشهور القادمة وضبط أرقام كل مندوب لتطابق البرنامج."
 }
