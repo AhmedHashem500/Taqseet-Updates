@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.7",
+  "versionCode": 10,
+  "versionName": "1.9",
   "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/qassat.apk",
-  "notes": "تحديث «قسط» 1.7: اختبار إتمام التثبيت تلقائيًا بعد منح صلاحية تثبيت التطبيقات."
+  "notes": "تحديث «قسط» 1.9: إتمام التثبيت تلقائيًا بعد منح صلاحية التثبيت — حتى لو أُغلق التطبيق أثناء المنح."
 }
