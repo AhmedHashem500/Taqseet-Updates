@@ -34,7 +34,7 @@
     "الأمان": "كل تحديث يُتحقق منه عبر SHA-256 قبل التثبيت. هذا الملف عام لكنه لا يحوي إلا معرّفات مشفّرة. يُستبدل ملف الـ jar فقط دون لمس ملف exe أو قاعدة بيانات العميل.",
     "ملاحظة_فنية": "أي مفتاح يبدأ بشرطة سفلية _ هو شرح فقط ويتجاهله التطبيق. لوحة التحكم تحافظ على هذا الشرح عند الحفظ."
   },
-  "default": "4.4.18",
+  "default": "4.4.19",
   "versions": {
     "4.4.4": {
       "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.4.4.jar",
@@ -72,6 +72,11 @@
       "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.4.18.jar",
       "sha256": "5d29ff618a3d7246f8cb97bf4f8347cd8b42fa96fbadaf6b829f848e524d50db",
       "notes": "الإصدار 4.4.18 — تحسينات شاشة العملاء:\n• ترتيب قائمة العملاء تنازليًا حسب الكود (الأحدث أولًا).\n• إصلاح ترقيم الصفحات: أصبح زر الصفحة الأخيرة ظاهرًا وقابلًا للضغط في كل الشاشات.\n• ضبط حجم النافذة لتناسب الشاشة دائمًا (عدم اختفاء شريط الصفحات في الأسفل)."
+    },
+    "4.4.19": {
+      "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.4.19.jar",
+      "sha256": "58e962551aaacb15401927ee7a8e2e647b01da48941482f9ff824b0ac55db5b2",
+      "notes": "الإصدار 4.4.19 — تحسينات عامة في الأداء والاستقرار."
     }
   },
   "devices": {},
