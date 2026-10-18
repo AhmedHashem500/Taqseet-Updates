@@ -104,7 +104,11 @@
     "devices": {}
   },
   "settings": {
-    "default": {},
+    "default": {
+      "pdf.header": "company name",
+      "pdf.info1": "فرع البحيرة 01118777710 - فرع الشرقية 01095989704",
+      "pdf.info2": "خدمة العملاء / 01037852030 (ضمان 14 يوم ضد عيوب الصناعة)"
+    },
     "devices": {
       "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": {
         "pdf.header": "الأندلس",
