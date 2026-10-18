@@ -114,8 +114,7 @@
         "mobile.username": "andalus",
         "mobile.password": "1234",
         "mobile.enabled": "1",
-        "catalog.username": "andalus",
-        "app.locked": "1"
+        "catalog.username": "andalus"
       },
       "50c818a5f8dbc48946fc85b2ef56cb792b6deaf2a7b7780ac3636e7ebc781cbe": {
         "pdf.header": "company name",
