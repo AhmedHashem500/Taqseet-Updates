@@ -1,8 +1,8 @@
 {
   "app": "catalog",
-  "version": 202610190244,
+  "version": 202610190251,
   "minApk": 7,
-  "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/catalog-web-202610190244.zip",
-  "sha256": "6bcbb6cd85e74d877cbb5f5436592d8cd237ef8f928f6d2af19b59ce93dd0cf9",
-  "sig": "3045022100e92772144ebad65d8e02479a01fb7ee0483f80b8f95d977d1f83e9413de6975002207ec201daafc0737ca69de277f4f5854a73711bfe061f2b87a9cbac9b093ed377"
+  "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/catalog-web-202610190251.zip",
+  "sha256": "1fa58c179c142574950d32a9beae9f3bedfb75f3847d4606411d8638e9783745",
+  "sig": "3046022100df0c2917cb237c66b48baeb45f1d52055209eb7802933d9524d09e90d7d4f0b7022100fda4f1125e4fbeafdfd08e7d335e271f13d023d9beac251a0b9b912c223829b9"
 }
