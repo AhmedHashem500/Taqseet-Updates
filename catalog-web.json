@@ -1,0 +1,8 @@
+{
+  "app": "catalog",
+  "version": 202610190244,
+  "minApk": 7,
+  "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/catalog-web-202610190244.zip",
+  "sha256": "6bcbb6cd85e74d877cbb5f5436592d8cd237ef8f928f6d2af19b59ce93dd0cf9",
+  "sig": "3045022100e92772144ebad65d8e02479a01fb7ee0483f80b8f95d977d1f83e9413de6975002207ec201daafc0737ca69de277f4f5854a73711bfe061f2b87a9cbac9b093ed377"
+}
