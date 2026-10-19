@@ -1,0 +1,8 @@
+{
+  "app": "stats",
+  "version": 202610190300,
+  "minApk": 13,
+  "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/stats-web-202610190300.zip",
+  "sha256": "0d4c2259f38aa864a34c8b72170ff28419a4d70c54a13e1bce9bc5f61855226f",
+  "sig": "304402201fdafce4e767b5d2fa0592b88b108936634d78aec49ff3cd1487ef7bdcde7e92022026c97b743094b8281587a3ab29d7b22858b28bb74ab44bc82e866d453ac5da4b"
+}
