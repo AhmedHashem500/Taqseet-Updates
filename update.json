@@ -152,12 +152,17 @@
       "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.4.34.jar",
       "sha256": "a6286e9df01215e0680ba4d4cd790909e33329b174a9ee3ca78381f418385027",
       "notes": "الإصدار 4.4.34:\n\n• تحسينات في لوحة الإدارة: مراجعة البيانات ومقارنتها. شغلك اليومي في البرنامج زي ما هو من غير أي تغيير."
+    },
+    "4.4.35": {
+      "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.4.35.jar",
+      "sha256": "cbd166531d2e97bc2ba375338562d34373075b5d8545940d0739ef05caaba95a",
+      "notes": "الإصدار 4.4.35:\n\n• شاشات الإدارة والحسابات: الخانات بقت بارتفاع ثابت ومش بتقص الكلام، والكلام في القوايم المنسدلة بقى واضح مع الثيم الغامق."
     }
   },
   "devices": {
-    "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.4.34",
+    "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.4.35",
     "50c818a5f8dbc48946fc85b2ef56cb792b6deaf2a7b7780ac3636e7ebc781cbe": "4.4.32",
-    "b685554b44184201183eb85b404b4fc1ca895b0a271f6dac3b03a0dd80e303e2": "4.4.34"
+    "b685554b44184201183eb85b404b4fc1ca895b0a271f6dac3b03a0dd80e303e2": "4.4.35"
   },
   "names": {
     "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "My device",
