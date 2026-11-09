@@ -156,7 +156,8 @@
   },
   "devices": {
     "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.4.34",
-    "50c818a5f8dbc48946fc85b2ef56cb792b6deaf2a7b7780ac3636e7ebc781cbe": "4.4.32"
+    "50c818a5f8dbc48946fc85b2ef56cb792b6deaf2a7b7780ac3636e7ebc781cbe": "4.4.32",
+    "b685554b44184201183eb85b404b4fc1ca895b0a271f6dac3b03a0dd80e303e2": "4.4.34"
   },
   "names": {
     "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "My device",
@@ -171,6 +172,9 @@
         "finance": true
       },
       "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": {
+        "finance": true
+      },
+      "b685554b44184201183eb85b404b4fc1ca895b0a271f6dac3b03a0dd80e303e2": {
         "finance": true
       }
     }
