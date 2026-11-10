@@ -157,12 +157,17 @@
       "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.4.35.jar",
       "sha256": "cbd166531d2e97bc2ba375338562d34373075b5d8545940d0739ef05caaba95a",
       "notes": "الإصدار 4.4.35:\n\n• شاشات الإدارة والحسابات: الخانات بقت بارتفاع ثابت ومش بتقص الكلام، والكلام في القوايم المنسدلة بقى واضح مع الثيم الغامق."
+    },
+    "4.4.36": {
+      "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.4.36.jar",
+      "sha256": "16003f483af63a8f2d9157afb62c9340f4dc619ae36540bb367e6bdaa6b5a53b",
+      "notes": "- شاشات الإدارة والحسابات: الكلام جوه الخانات بقى باين كامل ومش بيتقص مهما كان حجم الخط أو حجم الشاشة اللي متظبط في البرنامج.\n- القوايم المنسدلة رجعت بحدود فاتحة وسهم أزرق واضح."
     }
   },
   "devices": {
-    "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.4.35",
+    "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.4.36",
     "50c818a5f8dbc48946fc85b2ef56cb792b6deaf2a7b7780ac3636e7ebc781cbe": "4.4.32",
-    "b685554b44184201183eb85b404b4fc1ca895b0a271f6dac3b03a0dd80e303e2": "4.4.35"
+    "b685554b44184201183eb85b404b4fc1ca895b0a271f6dac3b03a0dd80e303e2": "4.4.36"
   },
   "names": {
     "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "My device",
