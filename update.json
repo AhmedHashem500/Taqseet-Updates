@@ -187,10 +187,15 @@
       "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.4.41.jar",
       "sha256": "50e5bbd336b63ad45eb8ff2f414a93bdfe09ecad0c95b672cf30ce13dce01765",
       "notes": "- مجلد الشهر: نسخة الداتابيز في «بيانات الشهر» بقت متسمية بتاريخ اليوم اللي اتعملت فيه، مش بتاريخ البرنامج."
+    },
+    "4.4.42": {
+      "url": "https://raw.githubusercontent.com/AhmedHashem500/Taqseet-Updates/main/Taqseet-Version4-4.4.42.jar",
+      "sha256": "958f62dc1b4691c0b912960ea33fe9dfeb71f470e11cd34da7771aeac940ec4c",
+      "notes": "- الضغط على زراير القايمة الجانبية بقى بيفتح من أول مرة، حتى لو الماوس اتحرك سنة وانت بتدوس. ونفس التصليح اتعمل في كل الأماكن اللي بتدوس عليها في الجداول والكروت.\n- ملفات Excel: الرقم اللي قبل الكلام العربي بقى في مكانه الصح، زي «75 عملية»."
     }
   },
   "devices": {
-    "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.4.41",
+    "45ebf13f032cf3a91bd000480e77f72ad983d8bcb91e56be02424086336e2bb9": "4.4.42",
     "50c818a5f8dbc48946fc85b2ef56cb792b6deaf2a7b7780ac3636e7ebc781cbe": "4.4.32",
     "b685554b44184201183eb85b404b4fc1ca895b0a271f6dac3b03a0dd80e303e2": "4.4.39"
   },
